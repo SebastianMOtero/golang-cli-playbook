@@ -1,7 +1,6 @@
 package module5
 
 import (
-	"net/http"
 	"fmt"
 )
 
